@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-universal-search",
+  "description": "ESLint shareable config for Universal Search",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (http://nodeexamples.com/)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/eslint-config-universal-search/issues"
+  },
+  "homepage": "https://github.com/pdehaan/eslint-config-universal-search#readme",
+  "keywords": [
+    "eslint-config",
+    "universal search"
+  ],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/eslint-config-universal-search.git"
+  },
+  "scripts": {
+    "test": "eslint ."
+  }
+}

@@ -1,2 +1,3 @@
 # eslint-config-universal-search
-ESLint shareable config for Universal Search
+
+> ESLint shareable config for Universal Search.
