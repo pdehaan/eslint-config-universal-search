@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-universal-search",
   "description": "ESLint shareable config for Universal Search",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "Peter deHaan <peter@deseloper.com> (http://nodeexamples.com/)",
   "bugs": {
     "url": "https://github.com/pdehaan/eslint-config-universal-search/issues"
