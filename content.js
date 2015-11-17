@@ -1,5 +1,5 @@
 module.exports = {
-  extends: './index',
+  extends: 'universal-search/index',
 
   parser: 'babel-eslint'
 }
